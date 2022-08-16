@@ -1,2 +1,2 @@
 # love.io
-Love Calculator
+Simple Love Calculator with math.random()
